@@ -1,0 +1,1 @@
+C:/Users/mfarrar.MESSIAH/Documents/FCS_Measurements/20180727/Sample7_TetraspeckDualEx_1to100_ShortAcq_Trial_1_Trial_1Ch1ACF.npz	a: [1.35378171]	tauD: [0.00519264]
